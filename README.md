@@ -2,12 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Santiago%20Centeno%20Castaño&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Desarrollador%20Junior%20en%20Formación%20🚀&descAlignY=58&descSize=18" />
 
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=4F8EF7&center=true&vCenter=true&width=600&lines=Apasionado+por+la+tecnolog%C3%ADa+💻;Full+Stack+Developer+en+formación+🌱;Siempre+aprendiendo+algo+nuevo+✨;Clean+Architecture+%7C+DDD+%7C+API+REST" alt="Typing SVG" />
-
-<br/>
-
 [![GitHub](https://img.shields.io/badge/GitHub-spostre-181717?style=for-the-badge&logo=github)](https://github.com/spostre)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Santiago%20Centeno-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/spostre)
 ![Visitors](https://komarev.com/ghpvc/?username=spostre&color=4f8ef7&style=for-the-badge&label=VISITAS)
